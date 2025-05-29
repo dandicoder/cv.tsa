@@ -16,7 +16,13 @@ export const navLink = [
   },
   {
     id: 4,
-    link: "#contact",
+     link: "#product",
+    label: "Product",
+  },
+    {
+    id: 5,
+  
+     link: "#contact",
     label: "Contact",
   },
 ];
